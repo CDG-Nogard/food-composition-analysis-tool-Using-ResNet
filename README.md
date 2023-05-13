@@ -3,20 +3,35 @@
 Environment: Python 3.11.2
 
 Required third-party libraries:
+
 beautifulsoup4           4.12.2
+
 bs4                      0.0.1
+
 matplotlib               3.7.1
+
 numpy                    1.24.2
+
 opencv-python            4.7.0.68
+
 Pillow                   9.4.0
+
 PyQt5                    5.15.9
+
 PyQt5-Qt5                5.15.2
+
 PyQt5-sip                12.11.1
+
 pywin32                  305
+
 requests                 2.28.2
+
 torch                    2.0.0
+
 torchvision              0.15.1
+
 Wikipedia-API            0.5.8
+
 
 Label file: food_labels.txt;
 Model file: model.pth;
